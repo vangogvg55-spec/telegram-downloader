@@ -2,7 +2,7 @@ import os
 import telebot
 from yt_dlp import YoutubeDL
 
-API_TOKEN = '9250046539:AAH8syMpYMIlh78oAIo3xu2-tBCmgd8xgOE'
+API_TOKEN = '9250046539:AAHSTU-RCvCZJOzZZozxsEsBIek4J1BBDco'
 
 bot = telebot.TeleBot(API_TOKEN)
 
